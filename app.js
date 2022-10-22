@@ -1,4 +1,7 @@
 const ageToVote = 18
+const currentYear = 2022
+const jsReleaseYear = 1995
+const currentAge = currentYear - jsReleaseYear
 
 const user = {
   name: 'Sherlock Holmes',
@@ -17,5 +20,14 @@ const cases = [
 ]
 
 // YOUR JS CODE
+console.log("Current age of java script", currentAge )
 
+if(currentAge > ageToVote){
+  console.log("JS is old enough to vote");
+  
+}
+  else{
+    console.log("JS is not old enough to vote");
+  }
+  
 

@@ -1,1 +1,10 @@
 /* YOUR STYLES HERE */
+/*TODO Border color?? */
+h6{
+    color: #ffdb6d;
+    background-color: #1d2531;
+    text-align: center;
+    padding: 1rem;
+    border: 3px solid #ffdb6d;
+    
+}

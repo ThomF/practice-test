@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../contact-list"
+		},
+		{
+			"path": "../balloonpop"
+		},
+		{
+			"path": "../../wdd130"
+		}
+	],
+	"settings": {}
+}
